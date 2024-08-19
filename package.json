@@ -37,6 +37,7 @@
   "dependencies": {
     "@sveltejs/enhanced-img": "^0.3.2",
     "d3": "^7.9.0",
-    "svelte-csv": "^1.2.8"
+    "svelte-csv": "^1.2.8",
+    "svelte-datatables-net": "^1.0.8"
   }
 }
